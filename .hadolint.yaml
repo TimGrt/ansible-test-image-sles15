@@ -1,0 +1,2 @@
+ignored:
+  - DL3037 # Specify version with `zypper install -y <package>=<version>`.
